@@ -10,6 +10,7 @@ If you'd like to connnect with me on [Linkedin](https://www.linkedin.com/in/thel
 
 ## Project 2: Classification Modeling with Wine Quality 红酒质量分类模型
 During my last semester at school, I explored my curiosity about wine by pursuing a WSET certificate as an extracurricular activity (and so glad I did!). Now it would be fun if I could combine my interest in wine and analytic skills into a fun project.
+
 出于长期对红酒以及酒文化的好奇，我在读研究生的最后一个学期决定在课外学习WSET的课程，并顺利地获得了Level 2的证书。这个有趣的分类模型项目结合了我的兴趣以及分析能力，希望你从中也能学习到一瓶红酒优劣的标准是如何判断的。
 * To be updated very soon....
 * Data Source: [Kaggle-Red Wine Quality](https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009)
