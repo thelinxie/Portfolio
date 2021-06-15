@@ -10,6 +10,7 @@ As a die-hard soccer fan and a long-time FIFA player, I often google the best te
 
 * A Tableau dashboard that identifies the best players at each position, the best clubs and national teams, with analysis on the players'potential and age/value relationship to be used for manager mode. 透过Tableau的数据看板来识别各个位置最强的球员，最强的球队和国家队，以及关于球员潜力和年龄/薪水关系的分析报告来辅助开始'经理模式'。
 * Data Source 数据源: [Sofifa.com](https://sofifa.com/)
+![](FIFA-18.jpg)
 
 ## [Project 2: Classification Modeling with Wine Quality 红酒质量分类模型](https://github.com/thelinxie/wine_classification)
 During my last semester at school, I explored my curiosity about wine by pursuing a WSET certificate as an extracurricular activity (and so glad I did!). Now it would be fun if I could combine my interest in wine and analytic skills into a fun project.
@@ -18,3 +19,4 @@ During my last semester at school, I explored my curiosity about wine by pursuin
 
 * Methods 使用技巧: EDA 探索性数据分析, Decision Trees 决策树, Random Forest 随机森林
 * Data Source 数据源: [Kaggle-Red Wine Quality](https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009)
+  
