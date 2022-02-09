@@ -3,7 +3,7 @@ Lindell is a data analyst with years of experience in e-commerce domain.
 
 If you'd like to connnect with me on [Linkedin](https://www.linkedin.com/in/thelinxie/), feel free to reach out and say hi. Look forward to how we may help and learn from each other.
 
-## [Project 1: FIFA 18 Best Eleven: Data Visualization with Tableau FIFA18数据看板](https://public.tableau.com/views/Fifa18_portfolio_project/FIFA18Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
+## [Project 1: FIFA 18 Best Eleven: Data Visualization with Tableau FIFA18数据看板](https://public.tableau.com/views/FIFA18RatingsDashboard/FIFA18Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
 As a die-hard soccer fan and a long-time FIFA player, I often google the best team and players to use before kicking off the weekedn tournament. Now, with the data that I found on Sofifa, I built a dashboard of my own for just that. Hope you enjoy using the project as much as I was building it.
 
 作为一个狂热的足球爱好者以及长期的FIFA玩家，我经常在网上找关于好用的球员和球队来迎接周末和朋友们的联赛。现在，我透过网上的数据，建立了一个快速找寻这些信息的Tableau数据看板来满足这一需求。
